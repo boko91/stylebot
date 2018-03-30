@@ -25,7 +25,7 @@ The result? Failure to standardize and one-voice across documents. Difficulty up
 
 Increasingly, in today's first-to-market economy, we find ourselves needing to rely heavily on automation, or else succumbing to the inevitable quality decay in the product we deliver. Automation provides the opportunity not necessarily to *replace all humans*, but to lets bots to do bot-work *so that the humans can focus on human-work*.
 
-Any experienced writer can tell you that human presence cannot be taken out of the equation without risking running into an insane edge-case that creates incomprehensible documentation that completely loses your readers' confidence. However, automation gets us ~75% of the way so that the remaining 25% of the work can be done with adequate attention and care.
+An experienced writer (or automation professional) knows that human presence cannot be taken out of the equation. Without human eyes on the lookout for sanity checks and reasonable results, gibberish outputs may be published into the world without discretion, and lose readership. However, automation gets us ~75% of the way so that the remaining 25% of the work can be done with adequate attention and care.
 
 Here is an example of a project (Rorybot) that has run into the same findings and attempted a similar application:
 
