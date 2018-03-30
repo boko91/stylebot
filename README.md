@@ -48,7 +48,7 @@ Here is the 5-stage StyleBot build plan.
 3.	Expand design patterns as needed
 4.	Document alpha build
 
-### Stage 3
+### Stage 3+
 1.	Identify scope of sensible “expansion module”
 2.	Create expansions based on existing design patterns
 3.	Expand design patterns as needed
